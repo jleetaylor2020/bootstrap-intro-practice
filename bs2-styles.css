@@ -1,0 +1,30 @@
+body.style {
+    background-image: url(https://images.pexels.com/photos/990824/pexels-photo-990824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: local;
+    height: auto;
+    color: whitesmoke;
+}
+
+.row {
+    margin: -17px;
+    padding: 1.75em;
+}
+
+.d-lg-flex {
+    color: darkcyan;
+    border-style: solid;
+    border-top-color: white;
+    border-bottom: thin;
+    border-width: .004em;
+    background-color: lightcyan;
+    
+    
+}
+
+h1, h3 {
+    text-align: center;
+    font-family: IBM Plex Sans Condensed
+}
